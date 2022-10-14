@@ -38,3 +38,4 @@ We recommend downloading the repo and getting the local demo environment setup o
 
 At your name here when we get to git lesson 3:
  - Lee Hambly
+ - Ken Sayers
